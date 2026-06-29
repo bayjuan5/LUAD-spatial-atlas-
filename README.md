@@ -17,7 +17,7 @@ Classifies cell types (Tregs, CD8+ T cells, B cells, etc.) using a fuzzy marker-
 - **Visualization:** Generates high-dimensional phenotypic landscapes via UMAP projections.
 
 ### 3. Spatial Topology & Niche Analysis (`spatial_clustering.py`)
-Quantifies "Architectural Fragmentation" as described in our *Cancer* manuscript.
+Quantifies 'Architectural Fragmentation' as described in our manuscript 
 - **Method:** DBSCAN-based spatial clustering to identify localized cell niches and interaction patterns during malignant progression.
 
 ### 4. Progression Modeling (`dynamics_simulation.py`)
