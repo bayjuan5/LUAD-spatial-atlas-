@@ -31,7 +31,7 @@ Simulates the transition trajectory (Normal → AAH → AIS → MIA → IAC) usi
 
 ## 📜 Citation
 If you find this work useful, please cite our manuscript:
-> **Huang, B., & Zhu, B. (2026). Architectural Fragmentation and Immune Reprogramming Define Early Malignant Transition in Lung Adenocarcinoma. *Cancer*.**
+> **Huang, B., & Zhu, B. Architectural Fragmentation and Immune Reprogramming Define Early Malignant Transition in Lung Adenocarcinoma. Laboratory Investigation (in revision).**
 
 ## ✉️ Contact
 For questions regarding the ROSIE framework or data requests, please contact:
